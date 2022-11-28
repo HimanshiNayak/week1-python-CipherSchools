@@ -9,5 +9,5 @@ def myfunc():
     print("my name is " + x)
     print(x) 
 
-    myfunction() 
+    myfunc() 
     ## we write comments in pythonby using a #
