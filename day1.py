@@ -4,4 +4,3 @@
  # this pseudo code nature of python makes it easy to understand .
  
  ## it was developed by Guido Van Rossum .
-
